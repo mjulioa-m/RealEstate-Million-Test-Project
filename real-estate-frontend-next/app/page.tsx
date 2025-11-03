@@ -92,6 +92,7 @@ export default function Home() {
 
       if (res.ok) {
         toast.success("100 propiedades agregadas!");
+        fetchProperties();
       } else {
         toast.error("Error al agregar propiedades");
       }
