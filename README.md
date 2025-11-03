@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prueba Técnica: Aplicación Full-Stack de Bienes Raíces
 
 Este proyecto es una aplicación web Full-Stack construida como parte de una prueba técnica. La solución incluye una API RESTful desarrollada en .NET 8 y un frontend en Next.js (React) que consume dicha API.
@@ -118,3 +119,6 @@ dotnet test
 * `PUT /api/properties/{id}`: Actualiza una propiedad (reemplazo completo).
 * `PUT /api/properties/{id}/image`: Actualiza solo la imagen de una propiedad.
 * `DELETE /api/properties/{id}`: Elimina una propiedad.
+=======
+# RealEstate-Million-Test-Project
+>>>>>>> 74db0cf5aa8cbd4e1972c8e70ba5ced8334ad25e
